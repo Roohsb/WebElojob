@@ -11,5 +11,5 @@ Sim essa é a mesma que eu vendia por R$ 1500 se virem pra por on.
 
 
 # Creditos:
-*CastroMS(Meu gostoso)
-*Rodrigo(A pessoa mais toxica que vc vai ver na vida)
+* CastroMS(Meu gostoso)
+* Rodrigo(A pessoa mais toxica que vc vai ver na vida)
