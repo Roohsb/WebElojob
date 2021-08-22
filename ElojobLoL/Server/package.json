@@ -1,0 +1,28 @@
+{
+  "name": "elojobx-server",
+  "version": "1.0.6",
+  "description": "Created By CastroMS 2021",
+  "main": "StarServer.js",
+  "scripts": {
+    "start": "node StartServer.js"
+  },
+  "author": "skillerm",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "crypto": "^1.0.1",
+    "cryptr": "^6.0.2",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "lowdb": "^1.0.0",
+    "mercadopago": "^1.5.7",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.6.1",
+    "package": "^1.0.1",
+    "riot-lol-api": "^4.3.3"
+  }
+}

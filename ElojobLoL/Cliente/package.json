@@ -1,0 +1,26 @@
+{
+  "name": "elojobx-employ",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "chart.js": "^3.3.2",
+    "cryptr": "^6.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "lowdb": "^1.0.0",
+    "mysql2": "^2.2.5",
+    "next": "^10.2.0",
+    "nextjs-redirect": "^5.0.2",
+    "nookies": "^2.5.2",
+    "package": "^1.0.1",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.3",
+    "react-dom": "^17.0.2",
+    "react-use": "^17.2.4"
+  }
+}
