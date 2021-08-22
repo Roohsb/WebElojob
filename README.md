@@ -7,7 +7,7 @@ Sim essa é a mesma que eu vendia por R$ 1500 se virem pra por on.
 * P: Ajuda a por on?
 * R: Tenho cara de suporte agora?
 * P: Pretende atualizar ela?
-* R: Sim claro vou perder meu tempo atualizando projetos para ratos.
+* R: Sim claro, vou perder meu tempo atualizando projetos para ratos.
 
 
 # Creditos:
