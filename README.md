@@ -1,4 +1,4 @@
 # WebElojob
-Sim essa é a mesma que eu vendia por R$ 1500 se virem pra por on.
+Yes this is the same one I sold for $1500 if you turn to on.
 # Contem:
-* Tudo que vc precisa pra montar um site de elojob vou ficar escrevendo 10001 coisa não, Baixa e se vira ae
+* Everything you need to set up an elojob site I'll be writing 10001 thing no, Download and turn around a.
